@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/gcc-14.1.0/include/c++/14.1.0",
+                "/usr/local/gcc-14.1.0/include/c++/14.1.0/x86_64-linux-gnu",
+                "/usr/local/gcc-14.1.0/include/c++/14.1.0/backward",
+                "/usr/include",
+                "/usr/local/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/gcc-14.1.0/bin/g++-14.1.0",
+            "cStandard": "c17",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [
+                "-std=c++23",
+                "-I/usr/local/gcc-14.1.0/include"
+            ],
+            "configurationProvider": "ms-vscode.cpptools"
+        }
+    ],
+    "version": 4
+}

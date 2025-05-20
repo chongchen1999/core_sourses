@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "chrono": "cpp",
+        "__locale": "cpp",
+        "time.h": "c"
+    }
+}
