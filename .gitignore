@@ -1,3 +1,8 @@
 *.o
 *.dump
 *.s
+dump.*
+elf.*
+*.a
+a.out
+*.so
